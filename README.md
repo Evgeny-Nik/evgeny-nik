@@ -8,4 +8,4 @@ Eager to develop and demonstrate my skills in cloud computing, continuous integr
 
 📂 **Projects**: Check out my repositories to see my work on CI/CD pipelines, Kubernetes deployments, and cloud infrastructure setup.
 
-📬 **Let's Connect**: [LinkedIn](https://www.linkedin.com/in/evgeny-nikolin-a9965828b) | [Email](mailto:evgenynik92@gmail.com)
+📬 **Let's Connect**: [LinkedIn](https://www.linkedin.com/in/evgeny-nik) | [Email](mailto:evgenynik92@gmail.com)
