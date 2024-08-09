@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Evgeny Passionate about Cloud, CI/CD, and Automation
+## Hi there 👋 I'm Evgeny
 A DevOps enthusiast dedicated to mastering the art of efficient and scalable software deployment.
 <br>
 Eager to develop and demonstrate my skills in cloud computing, continuous integration, continuous deployment, and automation.
